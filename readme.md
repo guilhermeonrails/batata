@@ -1,13 +1,3 @@
-### **Git e Github**
-
-Este guia te conduzirá passo a passo pelo processo de subir seu projeto para o GitHub utilizando o Git via linha de comando. 
-
-### **Pré-requisitos**
-
-* **Conta no GitHub:** Crie uma conta gratuita em https://github.com
-* **Git instalado:** Baixe e instale o Git para o seu sistema operacional em https://git-scm.com/downloads
-* **Terminal ou linha de comando:** Abra o terminal (Linux/macOS) ou o prompt de comando (Windows).
-
 ### **Passo a Passo**
 
 **Inicialize um repositório Git:**
